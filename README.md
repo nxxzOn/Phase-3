@@ -7,7 +7,7 @@ This repository contains the source code for Phase 3 of our website project.
 - Turki Al-Khalifah 
 - Omar Al-Muqhim 
 - Yazed Al-Harbi 
-- Khaled Al0Jweser 
+- Khaled Al-Jweser 
 - Faisal haddadi 
 - Ebrahim Aljohani
 
